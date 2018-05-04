@@ -1,0 +1,1 @@
+I am New String and Writing Data in newfile2.txts some text and PHP will read me and Print on Browser.I am New String and Writing Data in newfile2.txt
